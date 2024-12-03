@@ -29,52 +29,9 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-~~~
- <html>
-    <head>
-        <title> Book cover</title>
-        <style>
-            .Book{
-                text-align: center;
-                background-color:turquoise;
-                width: 45%; height: 100%;
-                margin:auto;
-                padding: 20px;
-            }
-            .title{
-               font-size: 70px;
-                font-weight: bold;
-                color: rgb(10, 7, 7);
-            }
-            .author{
-                font-size: 40px;
-                font-style: italic;
-            }
 
-           .image{
-            height: 15%;
-            width: 15%;
-            padding-left: 60%;
-           }
-           
-        </style>
-    </head>
-    <body>
-        <div class="Book">
-            <div class="title">The Autobiography of Nikola Tesla </div>
 
-            <div class="author">Nikola Tesla</div>
-            <img src="C:\Users\admin\Downloads\mbp\book cover.jpg" style="height: 40%; width: 40%;">
-                       
-            <div style="font-size: 40px; top: 1px";> <i>The Journey through the Life and Mind of a visionary </i> </div>
-            <img src="C:\Users\admin\Downloads\mbp\tesla.jpg" class="image">
-            
-        </div>
-    </body>
-</html>
-~~~
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/66e7c179-8ea6-4021-9242-b31f85da52c1)
 
 
 
